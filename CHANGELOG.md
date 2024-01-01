@@ -20,3 +20,4 @@
 ### Изменено
 
 - Произведена смена лицензии на [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en)
+- Добавлено автоматическое создание файла CNAME для GitHub Pages

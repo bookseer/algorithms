@@ -110,7 +110,7 @@ stop = "deactivate; exit"
 # Build and publish book
 publish = """
 jupyter-book build --all --builder html book/
-ghp-import -n -p -f book/_build/html
+ghp-import --no-jekyll --push --force --cname=CNAME book/_build/html
 """
 
 #======================================================================================================================
