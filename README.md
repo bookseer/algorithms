@@ -42,13 +42,14 @@
 Данное краткое описание лицензии содержит только некоторые ключевые особенности и условия самой лицензии.
 Оно не является лицензией и не имеет юридической силы.
 Прежде чем начать использовать лицензированный материал, вам следует внимательно ознакомиться со всеми условиями и
-положениями самой [лицензии](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en), прежде чем начать
-использовать лицензируемый материал.
+положениями самой лицензии [на официальном сайте](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en), или
+ее копией в данном [репозитории](./LICENSE.txt).
 
 ---
 
 Copyright (c) 2023–2024, Александр Красников.
-Все права защищены.
 
-![Alt text](./cc-icons.svg#cc-logo)
-<img src="./cc-icons.svg#cc-logo">
+[**CC BY-NC 4.0**](./LICENSE.txt)
+<img src="./book/_static/img/cc-icons.svg#cc-logo" style="width:12px">
+<img src="./book/_static/img/cc-icons.svg#cc-by" style="width:12px">
+<img src="./book/_static/img/cc-icons.svg#cc-nc" style="width:12px">
