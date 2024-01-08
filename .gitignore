@@ -476,8 +476,14 @@ wheels/
 # Custom
 #======================================================================================================================
 
+# Lektor
+docs/.lektor/
+
 # Jet Brains
 .idea/
 
 # Jupyter Book
 book/_build/
+
+# Jupyter Notebook
+*.ipynb
