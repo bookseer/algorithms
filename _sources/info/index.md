@@ -10,7 +10,4 @@ kernelspec:
 ---
 
 (info_index)=
-# Общая информация
-
-:::{tableofcontents}
-:::
+# Введение
