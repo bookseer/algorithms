@@ -9,4 +9,13 @@ parts:
   - file: info/index
     sections:
     - file: info/typography
-
+- caption: Анализ алгоритмов
+  chapters:
+  - file: algorithm-analysis/index
+    sections:
+    - file: algorithm-analysis/intro
+- caption: Структуры данных
+  chapters:
+  - file: data-structures/index
+    sections:
+    - file: data-structures/intro
