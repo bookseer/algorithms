@@ -148,7 +148,7 @@ jupyter-book build --all --builder html ./book/
 publish = """
 echo 'Build and publish book'
 poetry exec build
-ghp-import ./book/_build/html --no-jekyll --push --force --cname=booktemp.bookseer.org
+ghp-import ./book/_build/html --no-jekyll --push --force --cname=algorithms.bookseer.org
 """
 
 stop = """
