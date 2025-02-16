@@ -14,9 +14,7 @@ parts:
   chapters:
   - file: algorithm-analysis/index
     sections:
-    - file: algorithm-analysis/intro
+    - file: algorithm-analysis/asymptotic_notations
 - caption: Структуры данных
   chapters:
   - file: data-structures/index
-    sections:
-    - file: data-structures/intro
