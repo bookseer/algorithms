@@ -9,5 +9,5 @@ kernelspec:
   name: python3
 ---
 
-(algorithm-analysis-index)=
-# Введение в анализ алгоритмов
+(asymptotic-notations.)=
+# Асимптотическая нотация
