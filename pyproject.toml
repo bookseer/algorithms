@@ -17,7 +17,7 @@ readme = "README.md"
 homepage = "https://algorithms.bookseer.org"
 repository = "http://github.com/bookseer/algorithms"
 documentation = "https://algorithms.bookseer.org/docs.html"
-keywords = ["education, algorithm, algorithms, data-structures"]
+keywords = ["education", "algorithm", "algorithms", "data-structures"]
 packages = [{include = "bookseer", from = "src"}]
 exclude = ["book/*"]
 classifiers = [ # https://pypi.org/classifiers/
